@@ -1,0 +1,14 @@
+/**
+ * 全局css变量
+ */
+:root {
+    --primary-color: #409EFF;
+    --el-menu-bg-color: #409EFF !important; /** el-menu背景色 */
+    --el-menu-text-color: #FFFFFF !important; /** el-menu文字颜色 */
+    --el-menu-active-color: #409EFF !important; /** 激活文字颜色 */
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
